@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="16" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="health_backend" />
+        <module name="health_service" />
+        <module name="health_common" />
+        <module name="health_interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="16">
+      <module name="health_backend" target="1.7" />
+      <module name="health_common" target="1.8" />
+      <module name="health_interface" target="1.8" />
+      <module name="health_parent" target="1.8" />
+      <module name="health_service" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

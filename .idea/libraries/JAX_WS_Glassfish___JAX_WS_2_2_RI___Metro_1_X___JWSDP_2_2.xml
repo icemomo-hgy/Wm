@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/health_parent/health_backend/lib/woodstox-core-asl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
