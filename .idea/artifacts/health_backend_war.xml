@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="health_backend.war">
+    <root id="archive" name="health_backend-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="health_backend:war exploded" />
     </root>
   </artifact>

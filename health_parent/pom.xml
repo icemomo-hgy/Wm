@@ -9,7 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>health_common</module>
-        <module>health_common</module>
         <module>health_interface</module>
         <module>health_service</module>
         <module>health_backend</module>
